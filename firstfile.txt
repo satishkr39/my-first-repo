@@ -3,3 +3,6 @@ this is till first commit
 
 this is the second line
 this is the second commit
+
+this is line addded in first-branch but not in master branch 
+another line of first-branch
