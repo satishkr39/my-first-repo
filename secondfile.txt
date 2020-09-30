@@ -1,1 +1,3 @@
 this is second file text
+
+this is conflicted line on master branch
